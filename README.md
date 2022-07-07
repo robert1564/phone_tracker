@@ -19,5 +19,5 @@ Don't forget to add country code in front of phone number to work !!
 ## Youtube Video
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=zuaLIECCJqA" target="_blank">
- <img src="http://img.youtube.com/vi/zuaLIECCJqA/mqdefault.jpg" alt="Watch the video" width="540" height="360" border="10" />
+ <img src="http://img.youtube.com/vi/zuaLIECCJqA/mqdefault.jpg" alt="Watch the video" width="500" height="360" border="10" />
 </a>
