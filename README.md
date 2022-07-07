@@ -12,3 +12,6 @@ This is a python program that let you track a phone by using the number. This pr
 - Tkinter - is already preinstalled in python
 
 - Tkintermapview - pip install tkintermapview
+
+### Very important !!
+Don't forget to add country code in front of phone number to work !!
