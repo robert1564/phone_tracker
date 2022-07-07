@@ -18,3 +18,8 @@ Don't forget to add country code in front of phone number to work !!
 
 ## Youtube Video
 [![TRACK PHONE NUMBER LOCATION USING PYTHON](http://img.youtube.com/vi/zuaLIECCJqA/0.jpg)]([http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://www.youtube.com/watch?v=zuaLIECCJqA) "TRACK PHONE NUMBER LOCATION USING PYTHON")
+
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=nTQUwghvy5Q" target="_blank">
+ <img src="http://img.youtube.com/vi/nTQUwghvy5Q/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
+</a>
