@@ -17,4 +17,4 @@ This is a python program that let you track a phone by using the number. This pr
 Don't forget to add country code in front of phone number to work !!
 
 ## Youtube Video
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+[![TRACK PHONE NUMBER LOCATION USING PYTHON](https://i.ytimg.com/vi/zuaLIECCJqA/hqdefault.jpg?s%E2%80%A6AFwAcABBg==&rs=AOn4CLBi9TXWNRoTXvVM69POHnKT4DGb5g)]([https://www.youtube.com/watch?v=StTqXEQ2l-Y](https://www.youtube.com/watch?v=zuaLIECCJqA&t=380s) "TRACK PHONE NUMBER LOCATION USING PYTHON")
